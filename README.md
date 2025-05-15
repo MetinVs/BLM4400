@@ -1,0 +1,1 @@
+This project presents a Python simulation in which a Linear Regression machine learning model is integrated to model the behavior of a traffic light at an intersection and make traffic congestion prediction.
